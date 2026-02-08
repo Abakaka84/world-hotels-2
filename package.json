@@ -1,0 +1,21 @@
+{
+  "name": "hotels-api",
+  "version": "1.0.0",
+  "description": "Simple Hotels API for cities and hotels",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hotels",
+    "travel",
+    "cities",
+    "booking",
+    "api"
+  ],
+  "author": "Moussa Abakar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
